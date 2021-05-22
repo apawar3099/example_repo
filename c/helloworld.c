@@ -1,4 +1,7 @@
+/* hello world exmple in c*/
+
 #include <stdio.h>
+
 
 int main() {
   printf("Hello, git user!\n");
